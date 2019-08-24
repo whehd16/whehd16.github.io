@@ -9,7 +9,3 @@ Best Horror Music - Dark Suspense Creepy Scary Instrumental Music | https://yout
 HAPPY Music - Good Morning Ukulele Music | https://youtu.be/NvZtkt9973A
 ＳＬＥＥＰＹ | https://youtu.be/Z39IEmfyhjo
 Meditation - Monoman | https://youtu.be/FjHGZj2IjBk
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
