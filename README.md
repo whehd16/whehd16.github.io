@@ -3,26 +3,11 @@
 You can use the [editor on GitHub](https://github.com/whehd16/whehd16.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<table>
-  <td>hello</td>
-</table>
-Table 4. Links to the music used in this paper.
-Title
-Link
-Emotions Series - Anger | Most Epic Angry Dark Music Mix
-https://youtu.be/1qKS51qh4OY
-Scary mucic
-https://youtu.be/kRwyimMLJkw
-"Brahms Music" - DL Sounds
-https://youtu.be/F0rOhlLJrOc
-Best Horror Music - Dark Suspense Creepy Scary Instrumental Music
-https://youtu.be/tSXTCnbhR2E
-HAPPY Music - Good Morning Ukulele Music
-https://youtu.be/NvZtkt9973A
-ＳＬＥＥＰＹ
-https://youtu.be/Z39IEmfyhjo
-Meditation - Monoman
-https://youtu.be/FjHGZj2IjBk
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ### Markdown
